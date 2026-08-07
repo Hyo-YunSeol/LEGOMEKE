@@ -1,9 +1,0 @@
-{
-  "name": "레고 키우기",
-  "short_name": "레고키우기",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#f3f6ff",
-  "theme_color": "#5964f2",
-  "description": "포인트, 레고력, 라이어게임, 영토전을 함께 즐기는 레고방 소셜 게임"
-}
