@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 220" role="img" aria-label="재난문자돼지레고">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e6959e"/><stop offset="1" stop-color="#bc6572"/></linearGradient></defs>
+<ellipse cx="120" cy="205" rx="114" ry="11" fill="#55363b" opacity=".18"/><path d="M62 205 L79 190 L89 204 L105 188 M150 204 L164 189 L177 205" fill="none" stroke="#6a4d56" stroke-width="5"/>
+<path d="M78 52 L62 31 L89 42 Z" fill="#e6959e" stroke="#62313c" stroke-width="6"/><path d="M162 52 L178 31 L151 42 Z" fill="#e6959e" stroke="#62313c" stroke-width="6"/><circle cx="210" cy="40" r="14" fill="#e94d4d" stroke="#7d2424" stroke-width="5"/><path d="M210 31 V41 M210 48 V49" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+<rect x="84" y="35" width="72" height="65" rx="15" fill="#e6a29d" stroke="#62313c" stroke-width="7"/>
+<rect x="101" y="25" width="38" height="15" rx="6" fill="#e6a29d" stroke="#62313c" stroke-width="5"/>
+<circle cx="105" cy="61" r="5" fill="#41272b"/><circle cx="135" cy="61" r="5" fill="#41272b"/>
+<ellipse cx="120" cy="79" rx="21" ry="14" fill="#f2b6b1" stroke="#62313c" stroke-width="5"/><circle cx="112" cy="79" r="3.5" fill="#62313c"/><circle cx="128" cy="79" r="3.5" fill="#62313c"/>
+<rect x="6.0" y="91" width="228" height="96" rx="48" fill="url(#b)" stroke="#62313c" stroke-width="7"/>
+<ellipse cx="120" cy="139" rx="73.0" ry="36" fill="#f3b1ad" opacity=".38"/>
+<rect x="-4.0" y="105" width="26" height="66" rx="12" fill="#bc6572" stroke="#62313c" stroke-width="6" transform="rotate(-12 9.0 115)"/>
+<rect x="224.0" y="105" width="26" height="66" rx="12" fill="#bc6572" stroke="#62313c" stroke-width="6" transform="rotate(12 237.0 115)"/>
+<rect x="64.8" y="172" width="50.2" height="35" rx="8" fill="#62313c" opacity=".88"/><rect x="125.0" y="172" width="50.2" height="35" rx="8" fill="#62313c" opacity=".88"/>
+</svg>
