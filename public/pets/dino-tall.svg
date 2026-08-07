@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 220" role="img" aria-label="거대 용각류 레고">
-  <ellipse cx="120" cy="204" rx="112" ry="11" fill="#2d3048" opacity=".18"/>
-  <path d="M70 144 Q32 146 7 122 Q38 123 80 119" fill="#8d8cc3" stroke="#51517d" stroke-width="7"/>
-  <rect x="45" y="106" width="145" height="74" rx="36" fill="#a09ed4" stroke="#51517d" stroke-width="7"/>
-  <path d="M164 116 Q178 83 177 45 Q176 13 200 11 Q229 10 229 38 Q228 66 202 67 Q201 98 193 127" fill="#aaa9df" stroke="#51517d" stroke-width="7" stroke-linejoin="round"/>
-  <circle cx="208" cy="34" r="5" fill="#30304a"/>
-  <rect x="61" y="165" width="27" height="39" rx="8" fill="#8583bb" stroke="#51517d" stroke-width="6"/>
-  <rect x="147" y="165" width="27" height="39" rx="8" fill="#8583bb" stroke="#51517d" stroke-width="6"/>
-</svg>
