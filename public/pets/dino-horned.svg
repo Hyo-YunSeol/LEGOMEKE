@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 220" role="img" aria-label="각룡 레고">
+  <ellipse cx="119" cy="202" rx="104" ry="11" fill="#2f4130" opacity=".18"/>
+  <rect x="38" y="92" width="145" height="89" rx="42" fill="#7ab887" stroke="#365d44" stroke-width="7"/>
+  <path d="M163 95 Q174 57 211 65 Q234 72 229 107 Q225 138 188 148 L164 132 Z" fill="#8cc897" stroke="#365d44" stroke-width="7"/>
+  <path d="M185 73 L177 40 L195 70 M211 76 L226 48 L219 85" fill="#f0e4bb" stroke="#806f46" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M219 104 L239 94 L223 115" fill="#f0e4bb" stroke="#806f46" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="207" cy="94" r="5" fill="#203627"/>
+  <path d="M45 132 Q20 124 8 106 Q31 110 54 116" fill="#6fa77c" stroke="#365d44" stroke-width="7"/>
+  <rect x="63" y="165" width="29" height="37" rx="8" fill="#66a275" stroke="#365d44" stroke-width="6"/>
+  <rect x="135" y="165" width="29" height="37" rx="8" fill="#66a275" stroke="#365d44" stroke-width="6"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="짭덥레고">
+<defs>
+  <linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe08a"/><stop offset="0.45" stop-color="#f5ad29"/><stop offset="1" stop-color="#df7f0b"/></linearGradient>
+  <radialGradient id="belly" cx="50%" cy="25%" r="70%"><stop offset="0" stop-color="#fff0b3" stop-opacity=".9"/><stop offset="1" stop-color="#f5ad29" stop-opacity=".18"/></radialGradient>
+</defs>
+<ellipse cx="110" cy="198" rx="44.5" ry="10" fill="#76501e" opacity=".16"/>
+
+<g>
+  <rect x="44.0" y="108.9" width="22" height="52.9" rx="11" fill="#e88b10" stroke="#8c560b" stroke-width="5" transform="rotate(-11.4 55.0 118.9)"/>
+  <rect x="158.0" y="108.9" width="22" height="52.9" rx="11" fill="#e88b10" stroke="#8c560b" stroke-width="5" transform="rotate(11.4 169.0 118.9)"/>
+  <rect x="78.2" y="178.0" width="25.4" height="25" rx="9" fill="#d97708" stroke="#8c560b" stroke-width="5"/>
+  <rect x="116.4" y="178.0" width="25.4" height="25" rx="9" fill="#d97708" stroke="#8c560b" stroke-width="5"/>
+  <rect x="57.0" y="56.0" width="106" height="126" rx="46.6" fill="url(#body)" stroke="#8c560b" stroke-width="6"/>
+  <rect x="88.8" y="41.0" width="42.4" height="19" rx="9" fill="#ffc84d" stroke="#8c560b" stroke-width="5"/>
+  <ellipse cx="110" cy="145.5" rx="33.9" ry="27.7" fill="url(#belly)" stroke="#9b5b0b" stroke-opacity=".16" stroke-width="3"/>
+</g>
+<ellipse cx="90.9" cy="91.3" rx="5" ry="7" fill="#3a2608"/><ellipse cx="129.1" cy="91.3" rx="5" ry="7" fill="#3a2608"/>
+<ellipse cx="76.1" cy="119.3" rx="10" ry="6" fill="#ed7772" opacity="0.24"/><ellipse cx="143.9" cy="119.3" rx="10" ry="6" fill="#ed7772" opacity="0.24"/>
+<path d="M96 130.28 Q110 140.28 124 130.28" fill="none" stroke="#4b2d08" stroke-width="5" stroke-linecap="round"/>
+
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="돼지레고">
+<defs>
+  <linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe08a"/><stop offset="0.45" stop-color="#f5ad29"/><stop offset="1" stop-color="#df7f0b"/></linearGradient>
+  <radialGradient id="belly" cx="50%" cy="25%" r="70%"><stop offset="0" stop-color="#fff0b3" stop-opacity=".9"/><stop offset="1" stop-color="#f5ad29" stop-opacity=".18"/></radialGradient>
+</defs>
+<ellipse cx="110" cy="198" rx="83.2" ry="10" fill="#76501e" opacity=".16"/>
+<ellipse cx="29.0" cy="66.0" rx="17" ry="22" fill="#ef9f1a" stroke="#8c560b" stroke-width="5" transform="rotate(-25 29.0 66.0)"/>
+  <ellipse cx="191.0" cy="66.0" rx="17" ry="22" fill="#ef9f1a" stroke="#8c560b" stroke-width="5" transform="rotate(25 191.0 66.0)"/>
+<g>
+  <rect x="-2.0" y="107.6" width="22" height="59.6" rx="11" fill="#e88b10" stroke="#8c560b" stroke-width="5" transform="rotate(-26.2 9.0 117.6)"/>
+  <rect x="204.0" y="107.6" width="22" height="59.6" rx="11" fill="#e88b10" stroke="#8c560b" stroke-width="5" transform="rotate(26.2 215.0 117.6)"/>
+  <rect x="50.6" y="186.0" width="47.5" height="25" rx="9" fill="#d97708" stroke="#8c560b" stroke-width="5"/>
+  <rect x="121.9" y="186.0" width="47.5" height="25" rx="9" fill="#d97708" stroke="#8c560b" stroke-width="5"/>
+  <rect x="11.0" y="48.0" width="198" height="142" rx="58.0" fill="url(#body)" stroke="#8c560b" stroke-width="6"/>
+  <rect x="70.4" y="33.0" width="79.2" height="19" rx="9" fill="#ffc84d" stroke="#8c560b" stroke-width="5"/>
+  <ellipse cx="110" cy="148.8" rx="73.3" ry="38.3" fill="url(#belly)" stroke="#9b5b0b" stroke-opacity=".16" stroke-width="3"/>
+</g>
+<ellipse cx="74.4" cy="87.8" rx="5" ry="7" fill="#3a2608"/><ellipse cx="145.6" cy="87.8" rx="5" ry="7" fill="#3a2608"/>
+<ellipse cx="46.6" cy="115.8" rx="10" ry="6" fill="#ed7772" opacity="0.88"/><ellipse cx="173.4" cy="115.8" rx="10" ry="6" fill="#ed7772" opacity="0.88"/>
+
+<ellipse cx="110" cy="129.8" rx="27" ry="19" fill="#f5b15a" stroke="#8c560b" stroke-width="5"/>
+  <ellipse cx="100" cy="129.8" rx="4" ry="6" fill="#75400a"/><ellipse cx="120" cy="129.8" rx="4" ry="6" fill="#75400a"/>
+</svg>
