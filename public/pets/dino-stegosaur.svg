@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 220" role="img" aria-label="스테고 공룡레고">
+  <ellipse cx="120" cy="202" rx="105" ry="11" fill="#38402d" opacity=".18"/>
+  <path d="M47 137 Q20 127 8 106 Q31 111 58 116" fill="#8aa563" stroke="#4f6338" stroke-width="7"/>
+  <rect x="44" y="91" width="154" height="90" rx="42" fill="#9ab874" stroke="#4f6338" stroke-width="7"/>
+  <path d="M61 95 L72 57 L88 92 L105 49 L121 91 L140 47 L155 93 L173 58 L187 101" fill="#d89155" stroke="#874f2d" stroke-width="6" stroke-linejoin="round"/>
+  <rect x="176" y="111" width="51" height="45" rx="21" fill="#a7c481" stroke="#4f6338" stroke-width="7"/>
+  <circle cx="207" cy="128" r="5" fill="#2c371f"/>
+  <rect x="70" y="165" width="27" height="37" rx="8" fill="#7f9b5f" stroke="#4f6338" stroke-width="6"/>
+  <rect x="143" y="165" width="27" height="37" rx="8" fill="#7f9b5f" stroke="#4f6338" stroke-width="6"/>
+</svg>

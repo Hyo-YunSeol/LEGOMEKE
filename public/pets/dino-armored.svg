@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 220" role="img" aria-label="갑옷 공룡레고">
+  <ellipse cx="118" cy="202" rx="108" ry="11" fill="#304033" opacity=".18"/>
+  <path d="M53 138 Q26 132 8 147 Q31 149 51 157" fill="#7b9662" stroke="#455a38" stroke-width="7"/>
+  <circle cx="14" cy="147" r="12" fill="#657d53" stroke="#455a38" stroke-width="6"/>
+  <rect x="43" y="87" width="155" height="94" rx="42" fill="#91aa72" stroke="#455a38" stroke-width="7"/>
+  <path d="M61 92 L72 68 L85 92 L100 66 L114 92 L132 65 L145 92 L162 70 L175 96" fill="#6f8858" stroke="#455a38" stroke-width="6" stroke-linejoin="round"/>
+  <rect x="168" y="104" width="58" height="55" rx="24" fill="#9bb67b" stroke="#455a38" stroke-width="7"/>
+  <circle cx="205" cy="124" r="5" fill="#26331f"/>
+  <rect x="65" y="166" width="28" height="36" rx="8" fill="#748e5c" stroke="#455a38" stroke-width="6"/>
+  <rect x="143" y="166" width="28" height="36" rx="8" fill="#748e5c" stroke="#455a38" stroke-width="6"/>
+</svg>
