@@ -1,0 +1,16 @@
+{
+  "name": "lego-life-game",
+  "version": "6.4.8",
+  "private": true,
+  "description": "레고방 포인트 경쟁 소셜 다마고치 + 라이어 관전 + 사과게임 + 오목게임 + 5×5 영토전 - Cloudflare Workers v6.4.8",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "check": "node scripts/check-all.mjs",
+    "test": "node --test tests/v648-final.test.js tests/liar-game.test.js tests/omok.test.js tests/liar-spectator.test.js tests/spectator-reactions.test.js",
+    "verify": "npm run check && npm test",
+    "deploy:cloudflare": "npm run verify && npx wrangler deploy"
+  }
+}
