@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 220" role="img" aria-label="대왕돼룩레고">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4b3ae"/><stop offset="1" stop-color="#d98b86"/></linearGradient></defs>
+<ellipse cx="120" cy="205" rx="106" ry="11" fill="#55363b" opacity=".18"/>
+<path d="M78 52 L62 31 L89 42 Z" fill="#f4b3ae" stroke="#754349" stroke-width="6"/><path d="M162 52 L178 31 L151 42 Z" fill="#f4b3ae" stroke="#754349" stroke-width="6"/>
+<rect x="84" y="35" width="72" height="65" rx="15" fill="#e6a29d" stroke="#754349" stroke-width="7"/>
+<rect x="101" y="25" width="38" height="15" rx="6" fill="#e6a29d" stroke="#754349" stroke-width="5"/>
+<circle cx="105" cy="61" r="5" fill="#41272b"/><circle cx="135" cy="61" r="5" fill="#41272b"/>
+<ellipse cx="120" cy="79" rx="21" ry="14" fill="#f2b6b1" stroke="#754349" stroke-width="5"/><circle cx="112" cy="79" r="3.5" fill="#754349"/><circle cx="128" cy="79" r="3.5" fill="#754349"/>
+<rect x="27.0" y="91" width="186" height="96" rx="48" fill="url(#b)" stroke="#754349" stroke-width="7"/>
+<ellipse cx="120" cy="139" rx="59.5" ry="36" fill="#f3b1ad" opacity=".38"/>
+<rect x="17.0" y="105" width="26" height="66" rx="12" fill="#d98b86" stroke="#754349" stroke-width="6" transform="rotate(-12 30.0 115)"/>
+<rect x="203.0" y="105" width="26" height="66" rx="12" fill="#d98b86" stroke="#754349" stroke-width="6" transform="rotate(12 216.0 115)"/>
+<rect x="74.1" y="172" width="40.9" height="35" rx="8" fill="#754349" opacity=".88"/><rect x="125.0" y="172" width="40.9" height="35" rx="8" fill="#754349" opacity=".88"/>
+</svg>
