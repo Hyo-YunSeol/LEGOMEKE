@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="괴수돼지레고">
+
+<ellipse cx="120" cy="225" rx="99" ry="10" fill="#111" opacity=".16"/>
+<path d="M78 54 L58 18 L94 39 M162 54 L182 18 L146 39" fill="#4b5350" stroke="#1d2928" stroke-width="7"/>
+<rect x="76" y="35" width="88" height="69" rx="17" fill="#58645f" stroke="#1d2928" stroke-width="8"/>
+<rect x="103" y="22" width="34" height="16" rx="5" fill="#58645f" stroke="#1d2928" stroke-width="5"/>
+<circle cx="101" cy="61" r="6" fill="#ff354e"/><circle cx="139" cy="61" r="6" fill="#ff354e"/>
+<ellipse cx="120" cy="83" rx="31" ry="18" fill="#6f7771" stroke="#1d2928" stroke-width="5"/>
+<path d="M94 87 L76 105 L101 99 M146 87 L164 105 L139 99" fill="#f1ddbd" stroke="#1d2928" stroke-width="4"/>
+<rect x="39" y="103" width="162" height="91" rx="35" fill="#3f5350" stroke="#1d2928" stroke-width="8"/>
+<path d="M68 107 L76 82 L88 108 M102 105 L111 77 L124 106 M143 107 L153 80 L165 111" fill="#87998d" stroke="#1d2928" stroke-width="5"/>
+<path d="M43 122 L19 144 L33 184 M197 122 L221 144 L207 184" stroke="#1d2928" stroke-width="22" stroke-linecap="round"/>
+<rect x="52" y="185" width="62" height="34" rx="9" fill="#253633" stroke="#1d2928" stroke-width="6"/><rect x="126" y="185" width="62" height="34" rx="9" fill="#253633" stroke="#1d2928" stroke-width="6"/>
+<rect x="8" y="196" width="24" height="24" fill="#6b7180" stroke="#353944" stroke-width="3"/><rect x="206" y="190" width="27" height="30" fill="#777d8a" stroke="#353944" stroke-width="3"/>
+
+</svg>
