@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="비떱레고">
+
+<ellipse cx="120" cy="221" rx="74" ry="9" fill="#111" opacity=".11"/>
+<rect x="86" y="28" width="68" height="58" rx="12" fill="#ffd54f" stroke="#4e421c" stroke-width="6"/>
+<rect x="103" y="17" width="34" height="15" rx="6" fill="#ffd54f" stroke="#4e421c" stroke-width="5"/>
+<circle cx="106" cy="53" r="4" fill="#252525"/><circle cx="134" cy="53" r="4" fill="#252525"/><path d="M105 65 Q120 76 135 65" fill="none" stroke="#4b3b14" stroke-width="4" stroke-linecap="round"/>
+<rect x="60.0" y="88" width="120" height="92" rx="32" fill="#5d72d8" stroke="#34458d" stroke-width="7"/>
+<path d="M72.0 96 L47.0 110 L57.0 169" fill="none" stroke="#34458d" stroke-width="18" stroke-linecap="round"/>
+<path d="M168.0 96 L193.0 110 L183.0 169" fill="none" stroke="#34458d" stroke-width="18" stroke-linecap="round"/>
+<path d="M52.0 169 q-10 9 0 18 q13 8 20-5" fill="none" stroke="#ffd54f" stroke-width="9" stroke-linecap="round"/>
+<path d="M188.0 169 q10 9 0 18 q-13 8-20-5" fill="none" stroke="#ffd54f" stroke-width="9" stroke-linecap="round"/>
+<rect x="78.0" y="174" width="36.0" height="41" rx="8" fill="#34458d" stroke="#34354b" stroke-width="6"/>
+<rect x="122.4" y="174" width="36.0" height="41" rx="8" fill="#34458d" stroke="#34354b" stroke-width="6"/>
+<circle cx="120" cy="136" r="31" fill="#7189eb" opacity=".9"/><path d="M103 118 Q120 108 137 118" fill="none" stroke="#dce3ff" stroke-width="5"/><circle cx="120" cy="148" r="4" fill="#30428e"/>
+
+</svg>
