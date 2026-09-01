@@ -3319,7 +3319,11 @@ async function openProfile(petId) {
 
 function openOddEvenBet() {
   const balance = Math.max(0, Math.floor(Number(app.data?.dashboard?.pet?.stats?.points) || 0));
-  const rules = app.data?.catalog?.oddEven ?? { minStake: 10, stakeStep: 10, payoutPercent: { 1: 150, 2: 250, 3: 400 } };
+  const rules = app.data?.catalog?.oddEven ?? {
+  minStake: 10,
+  stakeStep: 10,
+  payoutPercent: { 1: 150, 2: 300, 3: 600 }
+};
   const minStake = Math.max(1, Math.floor(Number(rules.minStake) || 10));
   const stakeStep = Math.max(1, Math.floor(Number(rules.stakeStep) || 10));
   const payoutPercent = rules.payoutPercent ?? { 1: 150, 2: 250, 3: 400 };
