@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="황금 왕관">
-  <defs><linearGradient id="c" x1="0" x2="1"><stop stop-color="#d99a16"/><stop offset=".5" stop-color="#ffe678"/><stop offset="1" stop-color="#c77d08"/></linearGradient></defs>
-  <path d="M14 35 38 59 59 22l23 37 24-24-10 60H24z" fill="url(#c)" stroke="#8b5808" stroke-width="5" stroke-linejoin="round"/>
-  <path d="M25 80h70M27 94h66" stroke="#8b5808" stroke-width="5" stroke-linecap="round"/>
-  <g fill="#ef526f" stroke="#fff" stroke-width="2"><circle cx="35" cy="75" r="6"/><circle cx="60" cy="70" r="7"/><circle cx="85" cy="75" r="6"/></g>
-</svg>
