@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" role="img" aria-label="버섯">
+  <svg x="7" y="7" width="86" height="86" viewBox="0 0 96 96" preserveAspectRatio="xMidYMid meet">
+<defs></defs><ellipse cx="48" cy="82" rx="27" ry="5" fill="#111827" opacity=".10"/><path d="M20 47 Q24 20 48 18 Q72 20 76 47Z" fill="#ef5350" stroke="#8b2929" stroke-width="5"/><circle cx="35" cy="34" r="6" fill="#fff4df"/><circle cx="58" cy="28" r="5" fill="#fff4df"/><circle cx="64" cy="43" r="4" fill="#fff4df"/><path d="M38 47 H58 L63 75 Q48 82 33 75Z" fill="#f0d4a6" stroke="#8f6d48" stroke-width="5"/>
+  </svg>
+</svg>
