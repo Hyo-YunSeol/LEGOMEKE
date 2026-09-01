@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" role="img" aria-label="니드호그레고">
+<defs><linearGradient id="g"><stop stop-color="#42552e"/><stop offset="1" stop-color="#17251d"/></linearGradient></defs>
+<ellipse cx="150" cy="222" rx="126" ry="10" fill="#111827" opacity=".16"/>
+<path d="M47 185 Q17 153 36 123 Q55 94 86 111" fill="none" stroke="#263a25" stroke-width="19" stroke-linecap="round"/>
+<path d="M253 185 Q283 153 264 123 Q245 94 214 111" fill="none" stroke="#263a25" stroke-width="19" stroke-linecap="round"/>
+<path d="M49 119 Q83 94 114 100 L186 100 Q219 94 251 119 L262 187 Q219 214 150 211 Q81 214 38 187Z" fill="url(#g)" stroke="#102017" stroke-width="9"/>
+<rect x="111" y="38" width="78" height="70" rx="20" fill="#334a30" stroke="#102017" stroke-width="8"/>
+<rect x="132" y="23" width="36" height="19" rx="7" fill="#334a30" stroke="#102017" stroke-width="5"/>
+<circle cx="133" cy="68" r="7" fill="#b9ff7a"/><circle cx="167" cy="68" r="7" fill="#b9ff7a"/>
+<circle cx="133" cy="68" r="2.8" fill="#102017"/><circle cx="167" cy="68" r="2.8" fill="#102017"/>
+<path d="M130 88 Q150 101 170 88" fill="none" stroke="#102017" stroke-width="5" stroke-linecap="round"/>
+<path d="M116 47 L96 13 L128 36 M184 47 L204 13 L172 36" fill="#65784b" stroke="#102017" stroke-width="6"/>
+<path d="M67 139 Q98 119 124 145 M176 145 Q202 119 233 139" fill="none" stroke="#68804b" stroke-width="9" stroke-linecap="round"/>
+<path d="M112 170 L122 158 L132 174 L143 159 L153 174 L164 158 L175 170" fill="none" stroke="#a8c86e" stroke-width="7"/>
+<path d="M93 198 L78 221 M207 198 L222 221" stroke="#102017" stroke-width="18" stroke-linecap="round"/>
+</svg>
