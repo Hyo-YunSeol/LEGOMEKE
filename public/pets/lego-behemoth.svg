@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" role="img" aria-label="베헤모스레고">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b48752"/><stop offset="1" stop-color="#68452f"/></linearGradient></defs>
+<ellipse cx="150" cy="222" rx="126" ry="10" fill="#111827" opacity=".16"/>
+<path d="M48 195 Q30 150 57 119 Q33 111 24 83 Q54 91 73 109" fill="none" stroke="#5a3a28" stroke-width="20" stroke-linecap="round"/>
+<path d="M252 195 Q270 150 243 119 Q267 111 276 83 Q246 91 227 109" fill="none" stroke="#5a3a28" stroke-width="20" stroke-linecap="round"/>
+<path d="M54 120 Q81 95 111 98 L189 98 Q222 96 247 121 L265 184 Q222 211 150 209 Q78 211 35 184Z" fill="url(#g)" stroke="#432b21" stroke-width="9"/>
+<rect x="111" y="38" width="78" height="70" rx="20" fill="#8b613f" stroke="#432b21" stroke-width="8"/>
+<rect x="132" y="23" width="36" height="19" rx="7" fill="#8b613f" stroke="#432b21" stroke-width="5"/>
+<circle cx="133" cy="68" r="7" fill="#ffe17a"/><circle cx="167" cy="68" r="7" fill="#ffe17a"/>
+<circle cx="133" cy="68" r="2.8" fill="#432b21"/><circle cx="167" cy="68" r="2.8" fill="#432b21"/>
+<path d="M130 88 Q150 101 170 88" fill="none" stroke="#432b21" stroke-width="5" stroke-linecap="round"/>
+<path d="M119 51 Q84 22 78 59 Q91 42 117 63 M181 51 Q216 22 222 59 Q209 42 183 63" fill="#e7c98a" stroke="#432b21" stroke-width="6"/>
+<path d="M82 143 L105 122 L121 150 L145 116 L167 151 L193 120 L218 145" fill="none" stroke="#d1a66a" stroke-width="10" stroke-linejoin="round"/>
+<path d="M92 196 L78 220 M208 196 L222 220" stroke="#432b21" stroke-width="19" stroke-linecap="round"/>
+</svg>
