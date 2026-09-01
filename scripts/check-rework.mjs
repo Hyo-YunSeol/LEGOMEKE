@@ -1,0 +1,2 @@
+import fs from 'node:fs';
+const checks=[['src/game/constants.js','BODY_ADVANCEMENTS'],['src/game/engine.js','selectBodyAdvancement'],['src/worker.js','/api/profile/body-advancement'],['src/game/spot-difference.js','SPOT_DIFFERENCE_ATLAS_VERSION = 5'],['public/spot-difference-scene.js','assetVersion >= 5'],['public/app.js','openBodyAdvancement'],['public/styles.css','v6.10.20']];let failed=0;for(const [f,s] of checks){const ok=fs.existsSync(f)&&fs.readFileSync(f,'utf8').includes(s);console.log(ok?'OK ':'FAIL',f,s);if(!ok)failed++;}if(failed)process.exit(1);
