@@ -3326,10 +3326,10 @@ function openOddEvenBet() {
 };
   const minStake = Math.max(1, Math.floor(Number(rules.minStake) || 10));
   const stakeStep = Math.max(1, Math.floor(Number(rules.stakeStep) || 10));
-  const payoutPercent = rules.payoutPercent ?? { 1: 150, 2: 250, 3: 400 };
+  const payoutPercent = rules.payoutPercent ?? { 1: 150, 2: 300, 3: 600 };
   const maxStake = balance;
   const disabled = maxStake < minStake ? 'disabled' : '';
-  openModal(`${modalHeader('홀짝 배팅', `보유 포인트 ${points(balance)}`)}<form id="odd-even-bet-form" class="stack-form odd-even-bet-form"><label>걸 포인트<input id="odd-even-stake" name="stakePoints" type="number" inputmode="numeric" min="${minStake}" max="${maxStake}" step="${stakeStep}" placeholder="${minStake}~${maxStake}P · ${stakeStep}P 단위" autocomplete="off" required ${disabled}></label><div class="odd-even-preview"><div><span>1연승 정산</span><strong id="odd-even-payout-1">-</strong></div><div><span>2연승 정산</span><strong id="odd-even-payout-2">-</strong></div><div><span>3연승 정산</span><strong id="odd-even-payout-3">-</strong></div></div><p class="warning-box">보유 포인트 안에서 ${minStake}P 이상을 ${stakeStep}P 단위로 원하는 만큼 걸 수 있습니다. 시작할 때 판돈이 차감되고, 실패하면 전액을 잃습니다. 1연승은 1.5배, 2연승은 2.5배, 3연승은 4배를 총 지급합니다.</p><button class="primary wide" type="submit" ${disabled}>배팅 시작</button></form>`, { type: 'oddEvenBet' });
+  openModal(`${modalHeader('홀짝 배팅', `보유 포인트 ${points(balance)}`)}<form id="odd-even-bet-form" class="stack-form odd-even-bet-form"><label>걸 포인트<input id="odd-even-stake" name="stakePoints" type="number" inputmode="numeric" min="${minStake}" max="${maxStake}" step="${stakeStep}" placeholder="${minStake}~${maxStake}P · ${stakeStep}P 단위" autocomplete="off" required ${disabled}></label><div class="odd-even-preview"><div><span>1연승 정산</span><strong id="odd-even-payout-1">-</strong></div><div><span>2연승 정산</span><strong id="odd-even-payout-2">-</strong></div><div><span>3연승 정산</span><strong id="odd-even-payout-3">-</strong></div></div><p class="warning-box">보유 포인트 안에서 ${minStake}P 이상을 ${stakeStep}P 단위로 원하는 만큼 걸 수 있습니다. 시작할 때 판돈이 차감되고, 실패하면 전액을 잃습니다. 1연승은 1.5배, 2연승은 3배, 3연승은 6배를 총 지급합니다.</p><button class="primary wide" type="submit" ${disabled}>배팅 시작</button></form>`, { type: 'oddEvenBet' });
   requestAnimationFrame(() => {
     const input = $('#odd-even-stake');
     if (!input) return;
