@@ -81,11 +81,15 @@ test('포만감을 회복하면 굶주림 누적 시간이 초기화된다', () 
   assert.equal(pet.survival.hungerPenaltyHoursApplied, 0);
 });
 
-test('홀짝 배당은 1.5배·2.5배·4배다', () => {
-  assert.deepEqual({ ...ODD_EVEN_PAYOUT_PERCENT }, { 1: 150, 2: 250, 3: 400 });
+test('홀짝 배당은 1.5배·3배·6배다', () => {
+  assert.deepEqual(
+    { ...ODD_EVEN_PAYOUT_PERCENT },
+    { 1: 150, 2: 300, 3: 600 }
+  );
+
   assert.equal(oddEvenPayout(1000, 1), 1500);
-  assert.equal(oddEvenPayout(1000, 2), 2500);
-  assert.equal(oddEvenPayout(1000, 3), 4000);
+  assert.equal(oddEvenPayout(1000, 2), 3000);
+  assert.equal(oddEvenPayout(1000, 3), 6000);
 });
 
 test('해양편은 보존되고 레비아탄 이후에는 신화 체형 대신 전직 11종을 사용한다', async () => {
