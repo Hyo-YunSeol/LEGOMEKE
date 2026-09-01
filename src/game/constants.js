@@ -34,7 +34,7 @@ export const TERRITORY_GOLDEN_REVEAL_HOURS_BEFORE_END = 0;
 
 export const ODD_EVEN_MIN_STAKE = 10;
 export const ODD_EVEN_STAKE_STEP = 10;
-export const ODD_EVEN_PAYOUT_PERCENT = Object.freeze({ 1: 150, 2: 250, 3: 400 });
+export const ODD_EVEN_PAYOUT_PERCENT = Object.freeze({ 1: 150, 2: 300, 3: 600 });
 
 export const BODY_STAGES = [
   { min: 60, max: 69, key: 'skinny', label: '마름레고', activityHungerCost: 1 },
