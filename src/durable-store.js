@@ -206,7 +206,7 @@ function normalizeState(parsed) {
       const legacyStake = Number(challenge.stake);
       challenge.stake = Number.isSafeInteger(legacyStake) && legacyStake >= 10 && legacyStake % 10 === 0 ? legacyStake : 10;
       challenge.streak = Math.max(0, Math.min(3, Math.floor(Number(challenge.streak) || 0)));
-      const payoutPercent = { 1: 150, 2: 250, 3: 400 }[challenge.streak] ?? 0;
+      const payoutPercent = { 1: 150, 2: 300, 3: 600 }[challenge.streak] ?? 0;
       challenge.pendingPayout = payoutPercent ? Math.floor(challenge.stake * payoutPercent / 100) : 0;
     }
   }
