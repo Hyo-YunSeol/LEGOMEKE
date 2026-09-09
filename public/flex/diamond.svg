@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="다이아몬드">
+  <defs><linearGradient id="d" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eefeff"/><stop offset=".45" stop-color="#74dafa"/><stop offset="1" stop-color="#678cff"/></linearGradient></defs>
+  <path d="M12 47 32 18h56l20 29-48 59z" fill="url(#d)" stroke="#3b71b8" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M12 47h96M32 18l13 29 15-29 15 29 13-29M45 47l15 59 15-59" fill="none" stroke="#fff" stroke-width="3" opacity=".9"/>
+  <path d="M22 10v12M16 16h12M101 18v14M94 25h14" stroke="#75dffa" stroke-width="4" stroke-linecap="round"/>
+</svg>

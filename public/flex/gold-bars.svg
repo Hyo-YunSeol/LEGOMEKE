@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="골드바">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#f5c940"/><stop offset=".5" stop-color="#fff1a1"/><stop offset="1" stop-color="#c58b10"/></linearGradient></defs>
+  <g fill="url(#g)" stroke="#8b620c" stroke-width="4" stroke-linejoin="round"><path d="m16 74 18-32h48l19 32-13 25H29z"/><path d="m31 48 15-28h40l17 28-12 22H42z"/></g>
+  <path d="M53 34h27M48 85h34" stroke="#8b620c" stroke-width="4" stroke-linecap="round"/>
+  <text x="65" y="55" text-anchor="middle" font-family="sans-serif" font-weight="900" font-size="13" fill="#8b620c">GOLD</text>
+</svg>
