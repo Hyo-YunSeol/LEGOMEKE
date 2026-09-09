@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" role="img" aria-label="신화재앙레고">
+<defs><radialGradient id="a"><stop stop-color="#ffe268"/><stop offset=".45" stop-color="#c55cff"/><stop offset="1" stop-color="#243079"/></radialGradient><linearGradient id="g"><stop stop-color="#493b77"/><stop offset="1" stop-color="#171932"/></linearGradient></defs>
+<ellipse cx="150" cy="222" rx="126" ry="10" fill="#111827" opacity=".16"/>
+<circle cx="49" cy="53" r="25" fill="url(#a)" opacity=".85"/><circle cx="249" cy="66" r="20" fill="url(#a)" opacity=".72"/>
+<path d="M25 173 Q2 123 45 99 Q74 83 94 111" fill="none" stroke="#423769" stroke-width="18" stroke-linecap="round"/>
+<path d="M275 173 Q298 123 255 99 Q226 83 206 111" fill="none" stroke="#423769" stroke-width="18" stroke-linecap="round"/>
+<path d="M50 115 Q83 91 116 100 L184 100 Q217 91 250 115 L266 188 Q221 216 150 213 Q79 216 34 188Z" fill="url(#g)" stroke="#101126" stroke-width="9"/>
+<rect x="111" y="38" width="78" height="70" rx="20" fill="#3a3567" stroke="#101126" stroke-width="8"/>
+<rect x="132" y="23" width="36" height="19" rx="7" fill="#3a3567" stroke="#101126" stroke-width="5"/>
+<circle cx="133" cy="68" r="7" fill="#fff078"/><circle cx="167" cy="68" r="7" fill="#fff078"/>
+<circle cx="133" cy="68" r="2.8" fill="#101126"/><circle cx="167" cy="68" r="2.8" fill="#101126"/>
+<path d="M130 88 Q150 101 170 88" fill="none" stroke="#101126" stroke-width="5" stroke-linecap="round"/>
+<path d="M112 49 L88 10 L128 35 M188 49 L212 10 L172 35" fill="#8d65a9" stroke="#101126" stroke-width="6"/>
+<path d="M72 143 L100 119 L125 148 L150 112 L176 148 L202 119 L229 143" fill="none" stroke="#e58dff" stroke-width="9" stroke-linejoin="round"/>
+<path d="M96 199 L78 222 M204 199 L222 222" stroke="#101126" stroke-width="18" stroke-linecap="round"/>
+<path d="M35 206 Q52 190 65 208 M235 209 Q249 188 268 204" fill="none" stroke="#ffcf5f" stroke-width="5"/>
+
+</svg>

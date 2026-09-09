@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 220" role="img" aria-label="돼룩돼룩레고">
+  <defs>
+    <linearGradient id="mega" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5b6b2"/><stop offset=".52" stop-color="#dc8887"/><stop offset="1" stop-color="#b76269"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="120" cy="203" rx="111" ry="12" fill="#703e46" opacity=".18"/>
+  <rect x="1" y="119" width="28" height="61" rx="13" fill="#c87376" stroke="#773f49" stroke-width="6" transform="rotate(-18 15 127)"/>
+  <rect x="211" y="119" width="28" height="61" rx="13" fill="#c87376" stroke="#773f49" stroke-width="6" transform="rotate(18 225 127)"/>
+  <rect x="42" y="184" width="65" height="29" rx="10" fill="#a95760" stroke="#773f49" stroke-width="6"/>
+  <rect x="133" y="184" width="65" height="29" rx="10" fill="#a95760" stroke="#773f49" stroke-width="6"/>
+  <rect x="2" y="42" width="236" height="157" rx="73" fill="url(#mega)" stroke="#773f49" stroke-width="7"/>
+  <path d="M32 50 L48 27 L70 49" fill="#e99d9d" stroke="#773f49" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M170 49 L192 27 L208 52" fill="#e99d9d" stroke="#773f49" stroke-width="6" stroke-linejoin="round"/>
+  <rect x="74" y="24" width="92" height="23" rx="10" fill="#efaaa7" stroke="#773f49" stroke-width="6"/>
+  <ellipse cx="80" cy="88" rx="6" ry="8" fill="#46252c"/>
+  <ellipse cx="160" cy="88" rx="6" ry="8" fill="#46252c"/>
+  <ellipse cx="54" cy="118" rx="15" ry="7" fill="#ef777d" opacity=".68"/>
+  <ellipse cx="186" cy="118" rx="15" ry="7" fill="#ef777d" opacity=".68"/>
+  <ellipse cx="120" cy="125" rx="35" ry="27" fill="#f4aaa8" stroke="#773f49" stroke-width="6"/>
+  <ellipse cx="107" cy="124" rx="5" ry="7" fill="#773f49"/>
+  <ellipse cx="133" cy="124" rx="5" ry="7" fill="#773f49"/>
+  <path d="M94 160 Q120 178 146 160" fill="none" stroke="#773f49" stroke-width="6" stroke-linecap="round"/>
+  <path d="M26 157 Q51 167 72 161" fill="none" stroke="#c26d72" stroke-width="5" stroke-linecap="round" opacity=".65"/>
+  <path d="M168 161 Q190 168 214 156" fill="none" stroke="#c26d72" stroke-width="5" stroke-linecap="round" opacity=".65"/>
+  <text x="120" y="193" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="800" fill="#864650" opacity=".75">돼룩 돼룩</text>
+</svg>

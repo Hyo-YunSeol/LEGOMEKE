@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 225" role="img" aria-label="심해재난레고">
+  <defs><linearGradient id="d" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3e6870"/><stop offset=".55" stop-color="#234650"/><stop offset="1" stop-color="#172c35"/></linearGradient></defs>
+  <ellipse cx="135" cy="211" rx="128" ry="10" fill="#11242c" opacity=".25"/>
+  <path d="M14 150 Q34 116 67 113 M256 150 Q236 116 203 113" fill="none" stroke="#274f59" stroke-width="19" stroke-linecap="round"/>
+  <path d="M25 183 Q45 151 78 149 M245 183 Q225 151 192 149" fill="none" stroke="#305d67" stroke-width="17" stroke-linecap="round"/>
+  <rect x="24" y="76" width="222" height="112" rx="49" fill="url(#d)" stroke="#102b34" stroke-width="9"/>
+  <path d="M40 99 L63 68 L78 99 L98 61 L116 99 M154 99 L173 61 L194 99 L211 68 L231 100" fill="#315d67" stroke="#102b34" stroke-width="6" stroke-linejoin="round"/>
+  <rect x="91" y="31" width="88" height="84" rx="22" fill="#294f59" stroke="#102b34" stroke-width="9"/>
+  <rect x="111" y="16" width="48" height="21" rx="7" fill="#294f59" stroke="#102b34" stroke-width="5"/>
+  <circle cx="115" cy="64" r="9" fill="#ff6b67"/><circle cx="155" cy="64" r="9" fill="#ff6b67"/>
+  <path d="M108 88 Q135 112 162 88 L153 107 L143 97 L135 111 L126 97 L116 107 Z" fill="#091b20"/>
+  <path d="M53 134 Q78 118 102 134 M168 134 Q194 118 218 134" fill="none" stroke="#88bcc2" stroke-width="8" stroke-linecap="round" opacity=".75"/>
+  <path d="M66 171 Q92 152 113 171 M157 171 Q180 152 205 171" fill="none" stroke="#5d9298" stroke-width="7" stroke-linecap="round"/>
+  <path d="M4 72 Q25 58 39 42 M231 44 Q250 58 266 75" stroke="#84d9dc" stroke-width="6" stroke-linecap="round" opacity=".8"/>
+</svg>
