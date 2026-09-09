@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" role="img" aria-label="전구">
+  <rect x="6" y="6" width="88" height="88" rx="22" fill="#f2efff" stroke="#9788da" stroke-width="3"/>
+  <circle cx="50" cy="50" r="34" fill="#ffffff" opacity=".72"/>
+  <text x="50" y="63" text-anchor="middle" font-size="48" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif">💡</text>
+</svg>

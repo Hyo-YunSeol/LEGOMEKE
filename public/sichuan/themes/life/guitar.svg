@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" role="img" aria-label="물고기">
+  <svg x="7" y="7" width="86" height="86" viewBox="0 0 96 96" preserveAspectRatio="xMidYMid meet">
+<defs></defs><ellipse cx="48" cy="82" rx="27" ry="5" fill="#111827" opacity=".10"/><path d="M22 49 Q36 29 60 38 Q74 43 78 49 Q74 55 60 60 Q36 69 22 49Z" fill="#ff944d" stroke="#9e4e24" stroke-width="5"/><path d="M22 49 L10 36 V62Z" fill="#ffb25f" stroke="#9e4e24" stroke-width="4"/><circle cx="64" cy="47" r="3" fill="#222"/><path d="M43 40 Q49 49 43 59" fill="none" stroke="#f9d078" stroke-width="4"/>
+  </svg>
+</svg>
