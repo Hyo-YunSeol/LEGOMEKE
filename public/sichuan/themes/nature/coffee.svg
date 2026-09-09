@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" role="img" aria-label="꽃다발">
-  <svg x="7" y="7" width="86" height="86" viewBox="0 0 120 120" preserveAspectRatio="xMidYMid meet">
-<path d="M42 58 60 108 80 57" fill="#f4d8bd" stroke="#7a4a3f" stroke-width="4" stroke-linejoin="round"/>
-  <path d="m60 104-9-29M60 104l9-31" stroke="#3b8851" stroke-width="4"/>
-  <g fill="#e94862" stroke="#9c2941" stroke-width="3"><circle cx="38" cy="42" r="17"/><circle cx="60" cy="30" r="18"/><circle cx="82" cy="43" r="17"/><circle cx="59" cy="52" r="18"/></g>
-  <g fill="none" stroke="#ffd2d9" stroke-width="3"><path d="M30 41c7-10 17-8 20 1"/><path d="M51 29c8-10 17-6 20 1"/><path d="M52 52c8-10 17-7 20 0"/></g>
-  <path d="m49 83 12 7 12-8" fill="#f16b83" stroke="#9c2941" stroke-width="3"/>
-  </svg>
-</svg>
