@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="하마레고">
+
+<ellipse cx="120" cy="222" rx="80" ry="9" fill="#111" opacity=".10"/>
+<!-- LEGO stud + blocky hippo head -->
+<circle cx="75" cy="42" r="15" fill="#9b92bf" stroke="#514a70" stroke-width="6"/><circle cx="165" cy="42" r="15" fill="#9b92bf" stroke="#514a70" stroke-width="6"/>
+<rect x="81" y="29" width="78" height="68" rx="21" fill="#a8a0c9" stroke="#514a70" stroke-width="7"/>
+<rect x="104" y="17" width="32" height="15" rx="6" fill="#a8a0c9" stroke="#514a70" stroke-width="5"/>
+<ellipse cx="120" cy="78" rx="47" ry="31" fill="#c6bddb" stroke="#514a70" stroke-width="6"/>
+<circle cx="104" cy="55" r="4" fill="#222"/><circle cx="136" cy="55" r="4" fill="#222"/>
+<circle cx="105" cy="75" r="4" fill="#6b627e"/><circle cx="135" cy="75" r="4" fill="#6b627e"/>
+<path d="M101 87 Q120 99 139 87" fill="none" stroke="#514a70" stroke-width="4"/>
+<!-- unmistakable toy-block torso/hands -->
+<rect x="53" y="98" width="134" height="91" rx="28" fill="#857baa" stroke="#514a70" stroke-width="7"/>
+<rect x="28" y="113" width="31" height="63" rx="13" fill="#857baa" stroke="#514a70" stroke-width="6"/>
+<rect x="181" y="113" width="31" height="63" rx="13" fill="#857baa" stroke="#514a70" stroke-width="6"/>
+<path d="M37 176 q-11 8-1 18 q13 6 20-7" fill="none" stroke="#a8a0c9" stroke-width="10" stroke-linecap="round"/>
+<path d="M203 176 q11 8 1 18 q-13 6-20-7" fill="none" stroke="#a8a0c9" stroke-width="10" stroke-linecap="round"/>
+<rect x="66" y="184" width="49" height="32" rx="9" fill="#665e8d" stroke="#514a70" stroke-width="6"/>
+<rect x="125" y="184" width="49" height="32" rx="9" fill="#665e8d" stroke="#514a70" stroke-width="6"/>
+
+</svg>

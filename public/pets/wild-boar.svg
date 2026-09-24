@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="매태지레고">
+
+<ellipse cx="120" cy="222" rx="82" ry="9" fill="#111" opacity=".11"/>
+<path d="M75 52 L52 24 L91 38 M165 52 L188 24 L149 38" fill="#5c3c2d" stroke="#38251d" stroke-width="7" stroke-linejoin="round"/>
+<rect x="78" y="31" width="84" height="70" rx="22" fill="#79503a" stroke="#38251d" stroke-width="7"/>
+<rect x="104" y="18" width="32" height="15" rx="6" fill="#79503a" stroke="#38251d" stroke-width="5"/>
+<path d="M80 39 l-13 -17 M94 34 l-7 -20 M148 36 l9 -19 M162 42 l14 -16" stroke="#ad8764" stroke-width="6" stroke-linecap="round"/>
+<circle cx="102" cy="57" r="4" fill="#17130f"/><circle cx="138" cy="57" r="4" fill="#17130f"/>
+<ellipse cx="120" cy="80" rx="31" ry="20" fill="#9d7152" stroke="#38251d" stroke-width="5"/>
+<circle cx="110" cy="78" r="4" fill="#39251c"/><circle cx="130" cy="78" r="4" fill="#39251c"/>
+<path d="M92 84 Q79 82 79 69 Q90 77 97 72" fill="#f4e5c6" stroke="#38251d" stroke-width="4"/>
+<path d="M148 84 Q161 82 161 69 Q150 77 143 72" fill="#f4e5c6" stroke="#38251d" stroke-width="4"/>
+<rect x="48" y="99" width="144" height="91" rx="29" fill="#674431" stroke="#38251d" stroke-width="7"/>
+<path d="M51 112 l-25 18 l14 50" fill="none" stroke="#38251d" stroke-width="20" stroke-linecap="round"/>
+<path d="M189 112 l25 18 l-14 50" fill="none" stroke="#38251d" stroke-width="20" stroke-linecap="round"/>
+<path d="M37 178 q-10 10 2 18 q12 5 18-9" fill="none" stroke="#79503a" stroke-width="10" stroke-linecap="round"/>
+<path d="M203 178 q10 10-2 18 q-12 5-18-9" fill="none" stroke="#79503a" stroke-width="10" stroke-linecap="round"/>
+<rect x="62" y="184" width="54" height="33" rx="9" fill="#4e3226" stroke="#38251d" stroke-width="6"/>
+<rect x="124" y="184" width="54" height="33" rx="9" fill="#4e3226" stroke="#38251d" stroke-width="6"/>
+
+</svg>
