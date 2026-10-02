@@ -1,0 +1,29 @@
+{
+  "name": "레고 키우기",
+  "short_name": "레고키우기",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f6ff",
+  "theme_color": "#5964f2",
+  "description": "포인트, 레고력, 테트리스대전, 영토전을 함께 즐기는 레고방 소셜 게임",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
