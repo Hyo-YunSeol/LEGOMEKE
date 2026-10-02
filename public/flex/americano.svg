@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="아이스 아메리카노">
-  <path d="M38 25h49l-6 78H44z" fill="#d6f4ff" stroke="#33435a" stroke-width="5" stroke-linejoin="round"/>
-  <path d="M44 54h38l-4 43H48z" fill="#5b3425"/>
-  <path d="M34 25h57" stroke="#33435a" stroke-width="7" stroke-linecap="round"/>
-  <path d="M70 26 84 8" stroke="#ef657a" stroke-width="6" stroke-linecap="round"/>
-  <g fill="#e8fbff" opacity=".9"><rect x="50" y="61" width="12" height="10" rx="3"/><rect x="66" y="73" width="11" height="9" rx="3"/></g>
-</svg>
