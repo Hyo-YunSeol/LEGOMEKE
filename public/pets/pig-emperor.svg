@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="돼황레고">
+
+<ellipse cx="120" cy="224" rx="95" ry="10" fill="#111" opacity=".12"/>
+<path d="M52 202 Q30 155 48 104 Q64 82 85 79 H155 Q176 82 192 104 Q210 155 188 202" fill="#5d287f" stroke="#35144d" stroke-width="8"/>
+<rect x="79" y="39" width="82" height="60" rx="16" fill="#e39398" stroke="#6f3f51" stroke-width="7"/>
+<ellipse cx="120" cy="80" rx="31" ry="20" fill="#f2acb0" stroke="#6f3f51" stroke-width="5"/>
+<circle cx="109" cy="78" r="4"/><circle cx="131" cy="78" r="4"/>
+<circle cx="103" cy="60" r="4"/><circle cx="137" cy="60" r="4"/>
+<path d="M82 43 L87 11 L105 27 L120 3 L136 27 L154 11 L159 43 Z" fill="#f3c747" stroke="#7a5710" stroke-width="6"/>
+<circle cx="120" cy="17" r="6" fill="#d64263"/>
+<rect x="49" y="99" width="142" height="91" rx="34" fill="#9a496e" stroke="#6f3f51" stroke-width="7"/>
+<path d="M62 106 H178" stroke="#f0c34a" stroke-width="8"/><circle cx="120" cy="135" r="15" fill="#f0c34a" stroke="#7a5710" stroke-width="5"/>
+<path d="M56 183 H184 V213 H56 Z" fill="#74412d" stroke="#43261c" stroke-width="7"/><path d="M64 181 V147 M176 181 V147" stroke="#f0c34a" stroke-width="8"/>
+
+</svg>
