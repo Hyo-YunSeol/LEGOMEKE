@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="돈다발">
+  <g stroke="#246c46" stroke-width="4" stroke-linejoin="round"><path d="m18 55 72-20 13 48-72 20z" fill="#83d3a4"/><path d="m15 39 75-12 8 50-75 12z" fill="#a6e4bd"/><path d="M15 29h78v52H15z" fill="#c6f0d3"/></g>
+  <circle cx="54" cy="55" r="15" fill="#65bd8b" stroke="#246c46" stroke-width="4"/>
+  <path d="M54 44v22M47 50c2-7 16-6 15 1-1 6-14 2-15 8-1 7 14 8 16 1" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <path d="M25 29v52M83 29v52" stroke="#f4cb56" stroke-width="8"/>
+</svg>
