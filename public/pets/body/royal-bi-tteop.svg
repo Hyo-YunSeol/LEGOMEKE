@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="로얄비떱레고">
+
+<ellipse cx="120" cy="221" rx="91" ry="9" fill="#111" opacity=".11"/>
+<rect x="86" y="28" width="68" height="58" rx="12" fill="#ffd54f" stroke="#4e421c" stroke-width="6"/>
+<rect x="103" y="17" width="34" height="15" rx="6" fill="#ffd54f" stroke="#4e421c" stroke-width="5"/>
+<circle cx="106" cy="53" r="4" fill="#252525"/><circle cx="134" cy="53" r="4" fill="#252525"/><path d="M105 65 Q120 76 135 65" fill="none" stroke="#4b3b14" stroke-width="4" stroke-linecap="round"/>
+<rect x="46.0" y="88" width="148" height="92" rx="40" fill="#7c4da7" stroke="#46275f" stroke-width="7"/>
+<path d="M58.0 96 L33.0 110 L43.0 169" fill="none" stroke="#46275f" stroke-width="18" stroke-linecap="round"/>
+<path d="M182.0 96 L207.0 110 L197.0 169" fill="none" stroke="#46275f" stroke-width="18" stroke-linecap="round"/>
+<path d="M38.0 169 q-10 9 0 18 q13 8 20-5" fill="none" stroke="#ffd54f" stroke-width="9" stroke-linecap="round"/>
+<path d="M202.0 169 q10 9 0 18 q-13 8-20-5" fill="none" stroke="#ffd54f" stroke-width="9" stroke-linecap="round"/>
+<rect x="64.0" y="174" width="44.4" height="41" rx="8" fill="#46275f" stroke="#34354b" stroke-width="6"/>
+<rect x="123.0" y="174" width="44.4" height="41" rx="8" fill="#46275f" stroke="#34354b" stroke-width="6"/>
+<path d="M91 29 L97 5 L112 20 L120 1 L130 20 L145 5 L150 29 Z" fill="#ffd64c" stroke="#7d5810" stroke-width="5"/><circle cx="120" cy="13" r="5" fill="#db3d63"/><path d="M70 98 Q45 132 60 197 L93 171" fill="#6e3b9b" stroke="#40205d" stroke-width="7"/><path d="M170 98 Q195 132 180 197 L147 171" fill="#6e3b9b" stroke="#40205d" stroke-width="7"/><path d="M84 102 H156" stroke="#f3ca48" stroke-width="7"/><circle cx="120" cy="140" r="13" fill="#f3ca48" stroke="#8a6210" stroke-width="5"/>
+
+</svg>
