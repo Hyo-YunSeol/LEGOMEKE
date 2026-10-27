@@ -1,0 +1,24 @@
+LEGO LIFE GAME v6.10.38 — integrated comprehensive update
+
+Implemented
+1. Replaced long rankings with one compact, arrow-navigable TOP5 card and category selector. Block-game rankings show score and blocks removed; own record shown.
+2. Compact multiplayer selector (three games per row) and only selected game's lobby rendered at once.
+3. Rummikub enlarged and raised layout, screen-scroll usability improvements, landscape-lock attempt for compatible Android browsers and iOS rotation guidance/fallback.
+4. Cosmetic shop rebalanced: 31 active items across Lv5–Lv50, 72-hour (3-day) duration and new prices; legacy item IDs kept for saved-data compatibility. SVG accessory art refreshed.
+5. Seven animal evolution species, eight stages each: refreshed SVGs including visible pig nose. EXP thresholds lowered (final stage 2300 EXP), saved species progress when switching. Ordinary leveling requirements eased at higher levels.
+6. Territory ownership allowance continues beyond 10 with progressively larger level intervals; finite physical map still limits actual holdings.
+7. Removed persistent top-poke record from public room news; personal notifications and poke ranking retained.
+8. Added admin-only login nickname change with uniqueness validation, audit trail, stable internal account IDs and retained points/game records.
+9. Network polling, realtime state persistence, and mobile screen performance improvements; versioned service worker cache refreshed.
+
+QA verified
+- npm run build: PASS (syntax 110 JavaScript files; deploy smoke verification PASS)
+- npm test: PASS (441 tests, 0 failures; includes release-specific new tests)
+- ZIP integrity test: PASS
+- ESLint not run in this environment because package dependencies are not installed; run npm ci then npm run lint if desired.
+- Live Cloudflare storage migration, actual iOS/Android UI, and peak concurrent-user load test are NOT confirmed. These are required before confidently claiming zero production bugs.
+- No deployment performed. Back up Durable Object storage and test on a separate Worker or staging namespace before production rollout.
+
+Cleanup
+- Removed seven obsolete historical Markdown changelogs and temporary one-shot patch scripts from the distributable.
+- Preserved live source files and regression test suites. No unverified deletion of game-critical runtime code.
