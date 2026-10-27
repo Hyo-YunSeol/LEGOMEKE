@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" role="img" aria-label="가루다레고">
+<defs><linearGradient id="g"><stop stop-color="#e89f2c"/><stop offset="1" stop-color="#b95123"/></linearGradient></defs>
+<ellipse cx="150" cy="222" rx="126" ry="10" fill="#111827" opacity=".16"/>
+<path d="M108 122 Q58 73 14 96 Q49 112 63 143 Q39 143 24 166 Q68 166 110 176" fill="#e8b347" stroke="#8b3e22" stroke-width="7" stroke-linejoin="round"/>
+<path d="M192 122 Q242 73 286 96 Q251 112 237 143 Q261 143 276 166 Q232 166 190 176" fill="#e8b347" stroke="#8b3e22" stroke-width="7" stroke-linejoin="round"/>
+<path d="M76 116 Q102 96 121 100 L179 100 Q200 96 224 116 L234 188 Q200 211 150 211 Q100 211 66 188Z" fill="url(#g)" stroke="#78351f" stroke-width="9"/>
+<rect x="111" y="38" width="78" height="70" rx="20" fill="#d67628" stroke="#78351f" stroke-width="8"/>
+<rect x="132" y="23" width="36" height="19" rx="7" fill="#d67628" stroke="#78351f" stroke-width="5"/>
+<circle cx="133" cy="68" r="7" fill="#fff19a"/><circle cx="167" cy="68" r="7" fill="#fff19a"/>
+<circle cx="133" cy="68" r="2.8" fill="#78351f"/><circle cx="167" cy="68" r="2.8" fill="#78351f"/>
+<path d="M130 88 Q150 101 170 88" fill="none" stroke="#78351f" stroke-width="5" stroke-linecap="round"/>
+<path d="M120 44 L150 8 L180 44 L158 36 L150 55 L142 36Z" fill="#ffd44d" stroke="#78351f" stroke-width="6"/>
+<path d="M142 75 L150 84 L158 75" fill="#f3c75f" stroke="#78351f" stroke-width="4"/>
+<path d="M100 197 L83 221 M200 197 L217 221" stroke="#78351f" stroke-width="18" stroke-linecap="round"/>
+</svg>
