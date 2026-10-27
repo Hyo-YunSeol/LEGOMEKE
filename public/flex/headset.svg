@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 180"><defs><linearGradient id="shop-polish-gradient-0" x1="0" y1="0" x2=".82" y2="1"><stop stop-color="#8a91a8"/><stop offset=".52" stop-color="#626a84"/><stop offset="1" stop-color="#50576c"/></linearGradient><linearGradient id="shop-polish-gradient-1" x1="0" y1="0" x2=".82" y2="1"><stop stop-color="#464d66"/><stop offset=".52" stop-color="#272b39"/><stop offset="1" stop-color="#161820"/></linearGradient></defs>
+  <path d="M38 95V77C38 35 68 12 110 12s72 23 72 65v18" fill="none" stroke="#34394c" stroke-width="18" stroke-linecap="round"/>
+  <rect x="20" y="78" width="42" height="72" rx="18" fill="url(#shop-polish-gradient-0)" stroke="#272b39" stroke-width="7"/>
+  <rect x="158" y="78" width="42" height="72" rx="18" fill="url(#shop-polish-gradient-0)" stroke="#272b39" stroke-width="7"/>
+  <path d="M180 136c0 20-18 30-43 30" fill="none" stroke="#272b39" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="132" cy="166" r="9" fill="url(#shop-polish-gradient-1)"/>
+</svg>
