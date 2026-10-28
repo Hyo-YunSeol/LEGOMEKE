@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 225" role="img" aria-label="크라켄레고">
+  <defs><linearGradient id="k" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b06acb"/><stop offset="1" stop-color="#66368e"/></linearGradient></defs>
+  <ellipse cx="125" cy="210" rx="112" ry="10" fill="#3a214f" opacity=".2"/>
+  <path d="M70 139 Q33 137 22 175 Q18 197 44 203 Q30 180 53 169 Q73 161 88 173" fill="none" stroke="#7946a2" stroke-width="18" stroke-linecap="round"/>
+  <path d="M92 151 Q65 167 73 205" fill="none" stroke="#8e54b5" stroke-width="17" stroke-linecap="round"/>
+  <path d="M117 157 Q102 181 109 211" fill="none" stroke="#9d5bc2" stroke-width="17" stroke-linecap="round"/>
+  <path d="M139 157 Q156 183 151 211" fill="none" stroke="#9d5bc2" stroke-width="17" stroke-linecap="round"/>
+  <path d="M160 150 Q192 164 181 204" fill="none" stroke="#8e54b5" stroke-width="17" stroke-linecap="round"/>
+  <path d="M179 138 Q216 136 228 173 Q234 194 211 203 Q221 181 199 168 Q182 159 165 173" fill="none" stroke="#7946a2" stroke-width="18" stroke-linecap="round"/>
+  <rect x="61" y="72" width="128" height="101" rx="48" fill="url(#k)" stroke="#4a286c" stroke-width="8"/>
+  <rect x="88" y="35" width="74" height="70" rx="20" fill="#8f52b1" stroke="#4a286c" stroke-width="8"/>
+  <rect x="105" y="21" width="40" height="19" rx="7" fill="#8f52b1" stroke="#4a286c" stroke-width="5"/>
+  <circle cx="109" cy="64" r="7" fill="#ffd870"/><circle cx="141" cy="64" r="7" fill="#ffd870"/>
+  <path d="M125 74 L125 87" stroke="#4a286c" stroke-width="5" stroke-linecap="round"/>
+  <path d="M103 88 Q125 104 147 88" fill="none" stroke="#4a286c" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="76" cy="118" r="5" fill="#d59be2"/><circle cx="94" cy="139" r="5" fill="#d59be2"/><circle cx="174" cy="118" r="5" fill="#d59be2"/>
+</svg>
